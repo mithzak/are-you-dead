@@ -1,0 +1,7 @@
+{
+  "name": "SafeCheck MVP Architect",
+  "description": "A comprehensive architect dashboard and functional MVP prototype for a cross-platform personal safety application, featuring Flutter/Backend architecture specs and a live safety check-in simulator.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
